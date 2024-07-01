@@ -8,6 +8,7 @@ import {
     css,
     reactjs,
     vuejs,
+    quasar,
     redux,
     tailwind,
     nodejs,
@@ -15,7 +16,7 @@ import {
     git,
     velo,
     OMDB,
-    jobit,
+    MoneyApp,
     tripguide,
     threejs,
 } from "../assets";
@@ -74,6 +75,10 @@ const technologies = [
     {
         name: 'Vue JS',
         icon: vuejs,
+    },
+    {
+        name: 'Quasar',
+        icon: quasar,
     },
     {
         name: "Redux Toolkit",
@@ -144,16 +149,16 @@ const projects = [
         source_code_link: "https://sielcoh.github.io/OMDB-vod/",
     },
     {
-        name: "Job IT",
+        name: "Money App",
         description:
-            "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+            "In this app, we can add income & expense entries by entering a name and an amount. Income entries are in green & expense entries are in red.",
         tags: [
             {
-                name: "react",
+                name: "Vue",
                 color: "blue-text-gradient",
             },
             {
-                name: "restapi",
+                name: "Quasar",
                 color: "green-text-gradient",
             },
             {
@@ -161,7 +166,7 @@ const projects = [
                 color: "pink-text-gradient",
             },
         ],
-        image: jobit,
+        image: MoneyApp,
         source_code_link: "https://github.com/",
     },
     {
