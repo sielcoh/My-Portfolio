@@ -167,7 +167,7 @@ const projects = [
             },
         ],
         image: MoneyApp,
-        source_code_link: "https://github.com/",
+        source_code_link: "https://sielcoh.github.io/MoneyApp/#/",
     },
     {
         name: "Trip Guide",
