@@ -17,7 +17,8 @@ import {
     velo,
     OMDB,
     MoneyApp,
-    tripguide,
+    RemoveBg,
+    MyGit,
     threejs,
 } from "../assets";
 
@@ -133,15 +134,15 @@ const projects = [
         description: "An online application that allows users to search for movies and obtain information and descriptions about them. The app is connected to the OMDb API.",
         tags: [
             {
-                name: "react",
+                name: "React",
                 color: "blue-text-gradient",
             },
             {
-                name: "restapi",
+                name: "RestApi",
                 color: "green-text-gradient",
             },
             {
-                name: "bootstrap",
+                name: "Bootstrap 5",
                 color: "pink-text-gradient",
             },
         ],
@@ -170,16 +171,16 @@ const projects = [
         source_code_link: "https://sielcoh.github.io/MoneyApp/#/",
     },
     {
-        name: "Trip Guide",
+        name: "Remove BG Image",
         description:
-            "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+            "An application that provides a service of removing an image and adding a background by choice. The application is connected to the 'removebg' API.",
         tags: [
             {
-                name: "nextjs",
+                name: "React",
                 color: "blue-text-gradient",
             },
             {
-                name: "supabase",
+                name: "NodeJs",
                 color: "green-text-gradient",
             },
             {
@@ -187,7 +188,7 @@ const projects = [
                 color: "pink-text-gradient",
             },
         ],
-        image: tripguide,
+        image: RemoveBg,
         source_code_link: "https://github.com/",
     },
 ];

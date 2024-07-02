@@ -25,7 +25,8 @@ import velo from './company/velo.jpeg'
 
 import OMDB from "./OMDB.png";
 import MoneyApp from "./MoneyApp.png";
-import tripguide from "./tripguide.png";
+import RemoveBg from "./RemoveBg.png";
+import MyGit from "./MyGit.png";
 
 export {
   logo,
@@ -52,5 +53,6 @@ export {
   velo,
   OMDB,
   MoneyApp,
-  tripguide,
+  RemoveBg,
+  MyGit
 };
