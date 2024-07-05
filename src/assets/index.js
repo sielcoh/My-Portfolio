@@ -27,6 +27,7 @@ import OMDB from "./OMDB.png";
 import MoneyApp from "./MoneyApp.png";
 import RemoveBg from "./RemoveBg.png";
 import MyGit from "./MyGit.png";
+import gosite from "./gosite.png";
 
 export {
   logo,
@@ -54,5 +55,6 @@ export {
   OMDB,
   MoneyApp,
   RemoveBg,
-  MyGit
+  MyGit,
+  gosite
 };

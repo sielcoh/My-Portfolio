@@ -147,7 +147,8 @@ const projects = [
             },
         ],
         image: OMDB,
-        source_code_link: "https://sielcoh.github.io/OMDB-vod/",
+        source_code_link_github: "https://github.com/sielcoh/OMDB-vod",
+        source_code_link_site: "https://sielcoh.github.io/OMDB-vod/"
     },
     {
         name: "Money App",
@@ -168,7 +169,8 @@ const projects = [
             },
         ],
         image: MoneyApp,
-        source_code_link: "https://sielcoh.github.io/MoneyApp/#/",
+        source_code_link_github: "https://github.com/sielcoh/MoneyApp",
+        source_code_link_site: "https://sielcoh.github.io/MoneyApp/#/"
     },
     {
         name: "Remove BG Image",
@@ -189,7 +191,9 @@ const projects = [
             },
         ],
         image: RemoveBg,
-        source_code_link: "https://github.com/",
+        source_code_link_github: "https://github.com/sielcoh/Maraton-React",
+        source_code_link_site: "https://bg-img-remove.netlify.app/"
+
     },
 ];
 
